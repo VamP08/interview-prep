@@ -2,7 +2,7 @@
 
 ## Core idea
 
-String manipulation and matching beyond what hashing/DP topics cover. Service companies (TCS, Infosys, Wipro) and OAs lean heavily on direct string manipulation; product companies ask matching as a follow-up ("now do strStr better than O(nm)"). Know the naive, know one fast method (rolling hash or KMP idea), be able to say when each matters.
+String manipulation and matching beyond what hashing/DP topics cover. OAs lean on direct string manipulation; product companies (Google, Meta) ask matching as a follow-up ("now do strStr better than O(nm)"). Know the naive, know one fast method (rolling hash or KMP idea), be able to say when each matters.
 
 ## Recognition signals
 

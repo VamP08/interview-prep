@@ -31,14 +31,27 @@ Notes from 2025-2026 reports:
 - Trend: classic problems dressed in applied wording (delivery windows, ad budgets, rate limiters). The underlying pattern is unchanged - strip the story, find the structure.
 - Expect follow-ups over new problems: "now do it in O(1) space", "now the input is a stream", "now parallelize it".
 
-## Service companies / India MNC OAs (TCS, Infosys, Wipro, Accenture)
+## Target company profiles
 
-Different flavor: direct implementation over pattern depth. Recurring themes from 2026 drives:
+### Google
+- OA (new grad): 2 easy-medium, HackerRank or internal platform. Phone screen: 1-2 medium/hard in a shared doc - NO IDE, no autocomplete; practice writing code in a plain editor.
+- Onsite: 1-2 medium/hard per round with 2-3 follow-ups; graded on reasoning and communication, not just correctness. 2026 pilot: one round may be code COMPREHENSION - read and explain unfamiliar code.
+- Leans: graphs, DP, hards, follow-up chains ("now the input is a stream"). Googlyness/behavioral round separate.
 
-- Array logic and filtering (rotate, second largest, frequency, missing number)
-- String patterns (reverse words, palindrome variants, compression, char frequency)
-- Math-string hybrids (armstrong, digit sums, series printing, pattern printing)
-- Modular recursion transformations and simple greedy allocations (Infosys SP tier)
-- SQL + aptitude sections alongside coding - budget prep time for them
+### Meta
+- Phone screen: 45 min, TWO LC easy-medium problems in ~35 min in CoderPad with execution OFF. Speed and bug-free first pass matter more than anywhere else - drill timed pairs.
+- Onsite: 2 coding rounds (2026: one may be AI-assisted in-editor), product/system design at E4+, behavioral with strict rubric.
+- Leans: the Meta-tagged LC top list is unusually predictive - grind it before the loop.
 
-Sources: GFG per-company sheets and PrepInsta drive archives (see [resources.md](resources.md)). Product-MNC lists above still apply for their senior/digital tiers.
+### Oracle (Cloud/OCI)
+- Multiple rounds, LC easy-medium difficulty; interviewers weight CODE QUALITY: naming, no redundant logic, edge cases handled unprompted.
+- Java/Python fine. Expect core CS questions (OS, networking basics) mixed into coding rounds; senior loops add system design.
+
+### AI startups (Sarvam AI and similar)
+- Sarvam reported loop: ~3 rounds - project/build assessment with AI TOOLS ALLOWED (~1 hr, LLM use permitted), resume + DSA + backend breadth round, founder chat.
+- Build rounds are hands-on and proctored: build something non-trivial under time pressure. A public GitHub with one well-documented recent project beats five abandoned ones.
+- DSA bar exists but breadth + fundamentals + shipping ability weigh more than LC-hard grinding. Backend systems, APIs, and ML/GenAI literacy (transformers, inference, RAG basics) come up.
+
+### Difficulty target
+
+Google/Meta: comfortable at LC medium in <=25 min, hards attempted. Oracle: mediums, clean code. AI startups: mediums + ability to build and explain real systems.
