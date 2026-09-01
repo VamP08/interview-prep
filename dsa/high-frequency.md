@@ -11,7 +11,7 @@ Most-reported questions at large companies (FAANG + big MNCs), cross-referenced 
 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Linked List / Design | Amazon, Microsoft, everywhere |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Graphs | Amazon, Meta, Microsoft |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Sliding Window | Amazon, Meta |
-| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | Amazon, Meta, service companies |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | Amazon, Meta, everywhere |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Arrays & Hashing | Amazon, Uber |
 | [3Sum](https://leetcode.com/problems/3sum/) | Two Pointers | Meta, Amazon |
 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Graphs | Amazon, Google, Meta |

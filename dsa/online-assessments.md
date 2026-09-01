@@ -6,7 +6,7 @@ Most MNC pipelines start with a timed OA before any human round. Different game 
 
 | Platform | Used by | Format notes |
 |---|---|---|
-| HackerRank | Amazon, Goldman, many banks + service companies | Test-case scoring: each hidden case has points, partial credit real - submit brute force before optimizing |
+| HackerRank | Amazon, Oracle, Goldman, many banks | Test-case scoring: each hidden case has points, partial credit real - submit brute force before optimizing |
 | CodeSignal | Uber, Robinhood, many startups | GCA "Coding Score" is portable across companies; 4 problems / 70 min tiered easy to hard |
 | Codility | Microsoft (some), European companies | Correctness + performance scored separately |
 | CoderPad | Meta (live rounds, not OA) | Execution often OFF - your code must be right without running it |
