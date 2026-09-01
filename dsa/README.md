@@ -22,6 +22,7 @@ Follow the numbering — it matches NeetCode's roadmap, each topic builds on ear
 11 Graphs ── 12 Advanced Graphs
 13 1-D DP ── 14 2-D DP
 15 Greedy   16 Intervals   17 Math & Geometry   18 Bit Manipulation
+19 Prefix Sum   20 Strings   (beyond NeetCode 150 - asked in MNC interviews and OAs)
 ```
 
 ## Per-topic layout

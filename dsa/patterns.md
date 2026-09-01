@@ -36,5 +36,7 @@ Fast pre-interview review: signal -> pattern -> where it lives.
 | Overlapping ranges, rooms, merges | Sort + sweep / heap of ends | [16-intervals](16-intervals/notes.md) |
 | Matrix rotate/spiral/in-place marks | Boundary bookkeeping | [17-math-geometry](17-math-geometry/notes.md) |
 | Pairs cancel, appears-once, no extra space | XOR / bit tricks | [18-bit-manipulation](18-bit-manipulation/notes.md) |
+| Range sums, count subarrays with sum k | Prefix sum + hash map | [19-prefix-sum](19-prefix-sum/notes.md) |
+| Pattern in text, string transforms | Rolling hash / KMP / parsing | [20-strings](20-strings/notes.md) |
 
 If nothing matches: brute force first, state its complexity, then look for the bottleneck - the pattern usually hides in what the brute force recomputes.

@@ -2,7 +2,7 @@
 
 Single source of truth. Status: blank = untouched, WIP, DONE, REDO (needed hints - revisit).
 
-Total: 150 problems.
+Total: 163 problems (NeetCode 150 + extras).
 
 | # | Problem | Category | Difficulty | Status | Date | Attempts | Notes |
 |---|---|---|---|---|---|---|---|
@@ -156,3 +156,16 @@ Total: 150 problems.
 | 148 | [Missing Number](https://leetcode.com/problems/missing-number/) | Bit Manipulation | Easy |  |  |  |  |
 | 149 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Bit Manipulation | Medium |  |  |  |  |
 | 150 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Bit Manipulation | Medium |  |  |  |  |
+| 151 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Prefix Sum | Easy |  |  |  |  |
+| 152 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Prefix Sum | Easy |  |  |  |  |
+| 153 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Prefix Sum | Medium |  |  |  |  |
+| 154 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Prefix Sum | Medium |  |  |  |  |
+| 155 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Prefix Sum | Medium |  |  |  |  |
+| 156 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Prefix Sum | Medium |  |  |  |  |
+| 157 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Strings | Easy |  |  |  |  |
+| 158 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Strings | Easy |  |  |  |  |
+| 159 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Strings | Medium |  |  |  |  |
+| 160 | [String Compression](https://leetcode.com/problems/string-compression/) | Strings | Medium |  |  |  |  |
+| 161 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Strings | Easy |  |  |  |  |
+| 162 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Strings | Easy |  |  |  |  |
+| 163 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | Strings | Medium |  |  |  |  |

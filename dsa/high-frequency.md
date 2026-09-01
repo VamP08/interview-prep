@@ -30,3 +30,15 @@ Notes from 2025-2026 reports:
 - Medium difficulty dominates (~55% of asked questions); easies open phone screens, hards cluster at Google and senior loops.
 - Trend: classic problems dressed in applied wording (delivery windows, ad budgets, rate limiters). The underlying pattern is unchanged - strip the story, find the structure.
 - Expect follow-ups over new problems: "now do it in O(1) space", "now the input is a stream", "now parallelize it".
+
+## Service companies / India MNC OAs (TCS, Infosys, Wipro, Accenture)
+
+Different flavor: direct implementation over pattern depth. Recurring themes from 2026 drives:
+
+- Array logic and filtering (rotate, second largest, frequency, missing number)
+- String patterns (reverse words, palindrome variants, compression, char frequency)
+- Math-string hybrids (armstrong, digit sums, series printing, pattern printing)
+- Modular recursion transformations and simple greedy allocations (Infosys SP tier)
+- SQL + aptitude sections alongside coding - budget prep time for them
+
+Sources: GFG per-company sheets and PrepInsta drive archives (see [resources.md](resources.md)). Product-MNC lists above still apply for their senior/digital tiers.

@@ -51,3 +51,31 @@ Push/pop O(log n), peek O(1), heapify O(n). Top-k pattern O(n log k). Also know 
 - Tuples compare element-wise - if payloads are not comparable, insert a counter as tiebreak: (priority, i, item).
 - Do not mutate list then rely on heap property - heapify after bulk edits.
 - "Kth largest" with k-size MIN-heap (not max) is the part people flip.
+
+## Quickselect (the heap alternative)
+
+Kth largest without a heap: average O(n), worst O(n^2), in place. Name it when asked "can you beat O(n log k)?"
+
+```python
+import random
+def quickselect(nums, k):                # kth largest = index len-k ascending
+    k = len(nums) - k
+    l, r = 0, len(nums) - 1
+    while True:
+        pivot = nums[random.randint(l, r)]
+        i, j, p = l, l, r
+        while j <= p:                    # 3-way partition handles duplicates
+            if nums[j] < pivot:
+                nums[i], nums[j] = nums[j], nums[i]
+                i += 1; j += 1
+            elif nums[j] > pivot:
+                nums[j], nums[p] = nums[p], nums[j]
+                p -= 1
+            else:
+                j += 1
+        if k < i: r = i - 1
+        elif k > p: l = p + 1
+        else: return nums[k]
+```
+
+Random pivot is what keeps it O(n) average - say it.
